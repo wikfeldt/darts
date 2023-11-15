@@ -1,0 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wikfeldt/darts/HEAD)
+# Example notebook about estimating pi with darts
+
+Some description of the code...
+
+some documentation...
